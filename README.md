@@ -13,7 +13,7 @@
 - Cara menghilangkan spasi pada text (Hello World) yaitu menggunakan method `replace(' ','')`. dimana kutip yang ada spasinya ' ' diganti dengan yang tidak ada spasinya ''.
 - Cara mengubah text menjadi besar yaitu gunakan method `upper()`.
 - Cara mengubah text menjadi kecil yaitu menggunakan method `lower()`.
-- Cara mengubah huruf 'H' dengan huruf 'J' yaitu menggunakan method replace().
+- Cara mengubah huruf 'H' dengan huruf 'J' yaitu menggunakan method `replace()`.
 
 ## Latihan 2
 
