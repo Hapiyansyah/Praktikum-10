@@ -10,6 +10,7 @@
 
 ![foto2](foto/foto2.png)
 
+Untuk memasukkan variabel kedalam string, tambahkan kurung kurawal {} untuk menenempatkan variabel sebelumnya.
 ### Output Latihan 2
 
 ![foto4](foto/foto4.png)
