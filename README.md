@@ -1,15 +1,15 @@
 ### Latihan 1
 
-![code1](foto/code 1.png)
+![code1](foto/code1.png)
 
 ### Output Latihan 1
 
-![code3](foto/code 3.png)
+![code3](foto/code3.png)
 
 ### Latihan 2
 
-![code2](foto/code 2.png)
+![code2](foto/code2.png)
 
 ### Output Latihan 2
 
-![code4](foto/code 4.png)
+![code4](foto/code4.png)
