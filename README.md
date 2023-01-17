@@ -4,11 +4,11 @@
 
 ### Output Latihan 1
 
-![foto3](foto3/foto3.png)
+![foto3](foto/foto3.png)
 
 ### Latihan 2
 
-![foto2](foto2/foto2.png)
+![foto2](foto/foto2.png)
 
 ### Output Latihan 2
 
