@@ -1,6 +1,6 @@
 ## Latihan 1
 
-![foto1](foto/foto1.png)
+![foto5](foto/foto5.png)
 
 ## Output Latihan 1
 
